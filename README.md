@@ -1,3 +1,11 @@
+![AI-Assisted Robotic Arm](cover.svg)
+
+> **Inverse kinematics · Trajectory generation · PID simulation**
+
+**Focus:** Robotics & Control · [Source and project files](./)
+
+---
+
 # AI-Assisted Robotic Arm & Mechatronic Control Simulation
 
 A compact robotics/mechatronics portfolio project that models a planar two-link robotic arm and demonstrates an end-to-end engineering workflow: inverse kinematics, trajectory generation, closed-loop PID control, noisy joint sensing, tracking-fault detection, testing, and technical documentation.
